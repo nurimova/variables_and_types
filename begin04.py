@@ -1,5 +1,5 @@
-# Assign 12 (int value) to 'a' variable;
+"a" o'zgaruvchisiga 12 (butun son) qiymatini bering.
 
-# Assign 3 (int value) to 'b' variable;
+"b" o'zgaruvchisiga 3 (butun son) qiymatini bering.
 
-# Print the division of a by b.
+"a" va "b" bo'linmasini chop eting.
