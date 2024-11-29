@@ -1,7 +1,7 @@
-# Assign 5 (int value) to 'a' variable;
+# "a" o'zgaruvchisiga 5 (butun son) qiymatini bering.
 
-# Assign 4 (int value) to 'b' variable;
+# "b" o'zgaruvchisiga 4 (butun son) qiymatini bering.
 
-# Assign 8 (int value) to 'c' variable;
+# "c" o'zgaruvchisiga 8 (butun son) qiymatini bering.
 
-# Print the result of that expression 'https://github.com/xakimovallamurod/variables_and_types/blob/main/README.md#begin07';
+# Quyidagi ifodani hisoblang: 'https://github.com/xakimovallamurod/variables_and_types/blob/main/README.md#begin07';
