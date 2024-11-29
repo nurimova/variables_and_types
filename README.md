@@ -1,139 +1,168 @@
-# Variables and data Types
+     
+ # O'zgaruvchilar va Ma'lumot turlari
 
-## begin01
+### **begin01**
 
-Assign 5 (int value) to 'num_one' variable;\
-Assign 4 (int value) to 'num_two' variable;\
-Print the sum of 'num_one' and 'num_two'.
+- **"num_one"** o'zgaruvchisiga **5** (butun son) qiymatini bering.
+- **"num_two"** o'zgaruvchisiga **4** (butun son) qiymatini bering.
+- **"num_one"** va **"num_two"** yig'indisini chop eting.
 
-**Input**:*num_one, num_two*.\
-**Output**: *the sum*.
+**Kiritish:** *num_one, num_two*.  
+**Natija:** *Yig'indi*.  
 
-|   **Input**   |   **Output**    |
-|---------------|-----------------|
+| **Kiritish**  | **Natija**       |
+|---------------|------------------|
 |5  4           |9                |
 
-## begin02
+---
 
-Assign 7 (int value) to 'a' variable;\
-Assign 3 (int value) to 'b' variable;\
-Print the difference between 'a' and 'b'.
+### **begin02**
 
-**Input**:*a, b*.\
-**Output**: *the difference*.
+- **"a"** o'zgaruvchisiga **7** (butun son) qiymatini bering.
+- **"b"** o'zgaruvchisiga **3** (butun son) qiymatini bering.
+- **"a"** va **"b"** ayirmasini chop eting.
 
-|   **Input**   |   **Output**    |
-|---------------|-----------------|
+**Kiritish:** *a, b*.  
+**Natija:** *Ayirma*.  
+
+| **Kiritish**  | **Natija**       |
+|---------------|------------------|
 |7  3           |4                |
 
-## begin03
+---
 
-Assign 6 (int value) to 'a' variable;\
-Assign 8 (int value) to 'b' variable;\
-Print the multiplicand 'a' and 'b'.
+### **begin03**
 
-**Input**:*a, b*.\
-**Output**: *the multiplicand*.
+- **"a"** o'zgaruvchisiga **6** (butun son) qiymatini bering.
+- **"b"** o'zgaruvchisiga **8** (butun son) qiymatini bering.
+- **"a"** va **"b"** ko'paytmasini chop eting.
 
-|   **Input**   |   **Output**    |
-|---------------|-----------------|
+**Kiritish:** *a, b*.  
+**Natija:** *Ko‘paytma*.  
+
+| **Kiritish**  | **Natija**       |
+|---------------|------------------|
 |6  8           |48               |
 
-## begin04
+---
 
-Assign 12 (int value) to 'a' variable;\
-Assign 3 (int value) to 'b' variable;\
-Print the division of a by b.
+### **begin04**
 
-**Input**:*a, b*.\
-**Output**: *the division*.
+- **"a"** o'zgaruvchisiga **12** (butun son) qiymatini bering.
+- **"b"** o'zgaruvchisiga **3** (butun son) qiymatini bering.
+- **"a"** va **"b"** bo'linmasini chop eting.
 
-|   **Input**   |   **Output**    |
-|---------------|-----------------|
+**Kiritish:** *a, b*.  
+**Natija:** *Bo'linma*.  
+
+| **Kiritish**  | **Natija**       |
+|---------------|------------------|
 |12  3          |4.0              |
 
-## begin05
+---
 
-Assign 7 (int value) to 'a' variable;\
-Assign 3 (int value) to 'b' variable;\
-Assign 5 (int value) to 'c' variable;\
-Print the sum of three variables 'a', 'b', 'c';
+### **begin05**
 
-**Input**:*a, b, c*.\
-**Output**: *the sum*.
+- **"a"** o'zgaruvchisiga **7** (butun son) qiymatini bering.
+- **"b"** o'zgaruvchisiga **3** (butun son) qiymatini bering.
+- **"c"** o'zgaruvchisiga **5** (butun son) qiymatini bering.
+- Uch o'zgaruvchining **"a"**, **"b"**, **"c"** yig'indisini chop eting.
 
-|   **Input**   |   **Output**    |
-|---------------|-----------------|
+**Kiritish:** *a, b, c*.  
+**Natija:** *Yig‘indi*.  
+
+| **Kiritish**  | **Natija**       |
+|---------------|------------------|
 |7  3  5        |15               |
 
+---
 
+### **begin06**
 
-## begin06
-Assign 24 (int value) to 'a' variable;\
-Assign 3 (int value) to 'b' variable;\
-Assign 5 (int value) to 'c' variable;\
-Assign the result of the expression to variable 'k': <img src="https://latex.codecogs.com/gif.latex?\(k=a-b+c)" />;\
-Print the variable 'k'.
+- **"a"** o'zgaruvchisiga **24** (butun son) qiymatini bering.
+- **"b"** o'zgaruvchisiga **3** (butun son) qiymatini bering.
+- **"c"** o'zgaruvchisiga **5** (butun son) qiymatini bering.
+- Quyidagi ifodani hisoblang va **"k"** o'zgaruvchisiga bering:  
+  \( k = a - b + c \).  
+- **"k"** qiymatini chop eting.
 
-**Input**:*a, b, c*.\
-**Output**: *k*.
+**Kiritish:** *a, b, c*.  
+**Natija:** *k*.  
 
-|   **Input**   |   **Output**     |
+| **Kiritish**  | **Natija**       |
 |---------------|------------------|
-|24  3  5       |26                |
+|24  3  5       |26               |
 
-## begin07
-Assign 5 (int value) to 'a' variable;\
-Assign 4 (int value) to 'b' variable;\
-Assign 8 (int value) to 'c' variable;\
-Print the result of the expression: <img src="https://latex.codecogs.com/gif.latex?\(\frac{2a}{b})c" />.
+---
 
-**Input**:*a, b, c*.\
-**Output**: *the result of the expression*.
+### **begin07**
 
-|   **Input**   |   **Output**     |
+- **"a"** o'zgaruvchisiga **5** (butun son) qiymatini bering.
+- **"b"** o'zgaruvchisiga **4** (butun son) qiymatini bering.
+- **"c"** o'zgaruvchisiga **8** (butun son) qiymatini bering.
+- Quyidagi ifodani hisoblang:  
+  \( \text{Natija} = \frac{2a}{b} \times c \).  
+- Natijani chop eting.
+
+**Kiritish:** *a, b, c*.  
+**Natija:** *Ifoda natijasi*.  
+
+| **Kiritish**  | **Natija**       |
 |---------------|------------------|
-|5  4  8        |20.0              |
+|5  4  8        |20.0             |
 
-## begin08
-Assign 5 (int value) to 'a' variable;\
-Assign 4 (int value) to 'b' variable;\
-Assign 8 (int value) to 'c' variable;\
-Print the result of the expression: <img src="https://latex.codecogs.com/gif.latex?\frac{ab}{c}" />.
+---
 
-**Input**:*a, b, c*.\
-**Output**: *the result of the expression*.
+### **begin08**
 
-|   **Input**   |   **Output**     |
+- **"a"** o'zgaruvchisiga **5** (butun son) qiymatini bering.
+- **"b"** o'zgaruvchisiga **4** (butun son) qiymatini bering.
+- **"c"** o'zgaruvchisiga **8** (butun son) qiymatini bering.
+- Quyidagi ifodani hisoblang:  
+  \( \text{Natija} = \frac{ab}{c} \).  
+- Natijani chop eting.
+
+**Kiritish:** *a, b, c*.  
+**Natija:** *Ifoda natijasi*.  
+
+| **Kiritish**  | **Natija**       |
 |---------------|------------------|
-|5  4  8        |2.5               |
+|5  4  8        |2.5              |
 
-## begin09
-Assign 8 (int value) to 'a' variable;\
-Assign 3 (int value) to 'b' variable;\
-Assign 2 (int value) to 'c' variable;\
-Assign 4 (int value) to 'd' variable;\
-Assign the result of the expression to variable 'k': <img src="https://latex.codecogs.com/gif.latex?\(k=a+b-cd)" />;\
-Print the variable 'k'.
+---
 
-**Input**:*a, b, c, d*.\
-**Output**: *the result of the expression*.
+### **begin09**
 
-|   **Input**   |   **Output**     |
+- **"a"** o'zgaruvchisiga **8** (butun son) qiymatini bering.
+- **"b"** o'zgaruvchisiga **3** (butun son) qiymatini bering.
+- **"c"** o'zgaruvchisiga **2** (butun son) qiymatini bering.
+- **"d"** o'zgaruvchisiga **4** (butun son) qiymatini bering.
+- Quyidagi ifodani hisoblang va **"k"** o'zgaruvchisiga bering:  
+  \( k = a + b - c \cdot d \).  
+- **"k"** qiymatini chop eting.
+
+**Kiritish:** *a, b, c, d*.  
+**Natija:** *k*.  
+
+| **Kiritish**  | **Natija**       |
 |---------------|------------------|
-|8 3 2 4        |3                 |
+|8 3 2 4        |3                |
 
-## begin10
-Assign 5 (int value) to 'a' variable;\
-Assign 4 (int value) to 'b' variable;\
-Assign 2 (int value) to 'c' variable;\
-Assign 8 (int value) to 'd' variable;\
-Assign the result of the expression to variable 'k': <img src="https://latex.codecogs.com/gif.latex?\(k=2(ab-cd))" />;\
-Print the variable 'k'.
+---
 
-**Input**:*a, b, c, d*.\
-**Output**: *Natijani chiqaring*.
+### **begin10**
 
-|   **Input**   |   **Output**     |
+- **"a"** o'zgaruvchisiga **5** (butun son) qiymatini bering.
+- **"b"** o'zgaruvchisiga **4** (butun son) qiymatini bering.
+- **"c"** o'zgaruvchisiga **2** (butun son) qiymatini bering.
+- **"d"** o'zgaruvchisiga **8** (butun son) qiymatini bering.
+- Quyidagi ifodani hisoblang va **"k"** o'zgaruvchisiga bering:  
+  \( k = 2 \cdot (ab - cd) \).  
+- **"k"** qiymatini chop eting.
+
+**Kiritish:** *a, b, c, d*.  
+**Natija:** *Natija*.  
+
+| **Kiritish**  | **Natija**       |
 |---------------|------------------|
-|5 4 2 8        |8                 |
+|5 4 2 8	    |8
