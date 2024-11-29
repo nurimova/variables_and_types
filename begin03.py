@@ -1,5 +1,5 @@
-# Assign 6 (int value) to 'a' variable;
+"a" o'zgaruvchisiga 6 (butun son) qiymatini bering.
 
-# Assign 8 (int value) to 'b' variable;
+"b" o'zgaruvchisiga 8 (butun son) qiymatini bering.
 
-# Print the multiplicand 'a' and 'b'.
+"a" va "b" ko'paytmasini chop eting.
