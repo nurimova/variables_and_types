@@ -1,5 +1,5 @@
-# Assign 7 (int value) to 'a' variable;
+"a" o'zgaruvchisiga 7 (butun son) qiymatini bering.
 
-# Assign 3 (int value) to 'b' variable;
+"b" o'zgaruvchisiga 3 (butun son) qiymatini bering.
 
-# Print the difference between 'a' and 'b'.
+"a" va "b" ayirmasini chop eting.
