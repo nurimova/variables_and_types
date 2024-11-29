@@ -1,9 +1,9 @@
-# Assign 24 (int value) to 'a' variable;
+# "a" o'zgaruvchisiga 24 (butun son) qiymatini bering.
 
-# Assign 3 (int value) to 'b' variable;
+# "b" o'zgaruvchisiga 3 (butun son) qiymatini bering.
 
-# Assign 5 (int value) to 'c' variable;
+# "c" o'zgaruvchisiga 5 (butun son) qiymatini bering.
 
-# Find the result of that expression 'https://github.com/xakimovallamurod/variables_and_types/blob/main/README.md#begin06';
+# Quyidagi ifodani hisoblang va "k" o'zgaruvchisiga bering: 'https://github.com/xakimovallamurod/variables_and_types/blob/main/README.md#begin06';
 
-# # Print the variable 'k'.
+# "k" qiymatini chop eting.
