@@ -83,7 +83,7 @@
 - **"b"** o'zgaruvchisiga **3** (butun son) qiymatini bering.
 - **"c"** o'zgaruvchisiga **5** (butun son) qiymatini bering.
 - Quyidagi ifodani hisoblang va **"k"** o'zgaruvchisiga bering:  
-  \( k = a - b + c \).  
+   <img src="https://latex.codecogs.com/gif.latex?\(k=a-b+c)" />;\
 - **"k"** qiymatini chop eting.
 
 **Kiritish:** *a, b, c*.  
@@ -101,7 +101,7 @@
 - **"b"** o'zgaruvchisiga **4** (butun son) qiymatini bering.
 - **"c"** o'zgaruvchisiga **8** (butun son) qiymatini bering.
 - Quyidagi ifodani hisoblang:  
-  \( \text{Natija} = \frac{2a}{b} \times c \).  
+  <img src="https://latex.codecogs.com/gif.latex?\(\frac{2a}{b})c" />.
 - Natijani chop eting.
 
 **Kiritish:** *a, b, c*.  
@@ -119,7 +119,9 @@
 - **"b"** o'zgaruvchisiga **4** (butun son) qiymatini bering.
 - **"c"** o'zgaruvchisiga **8** (butun son) qiymatini bering.
 - Quyidagi ifodani hisoblang:  
-  \( \text{Natija} = \frac{ab}{c} \).  
+  <img src="https://latex.codecogs.com/gif.latex?\frac{ab}{c}" />.
+
+
 - Natijani chop eting.
 
 **Kiritish:** *a, b, c*.  
@@ -138,7 +140,7 @@
 - **"c"** o'zgaruvchisiga **2** (butun son) qiymatini bering.
 - **"d"** o'zgaruvchisiga **4** (butun son) qiymatini bering.
 - Quyidagi ifodani hisoblang va **"k"** o'zgaruvchisiga bering:  
-  \( k = a + b - c \cdot d \).  
+  <img src="https://latex.codecogs.com/gif.latex?\(k=a+b-cd)" />;\
 - **"k"** qiymatini chop eting.
 
 **Kiritish:** *a, b, c, d*.  
@@ -157,7 +159,7 @@
 - **"c"** o'zgaruvchisiga **2** (butun son) qiymatini bering.
 - **"d"** o'zgaruvchisiga **8** (butun son) qiymatini bering.
 - Quyidagi ifodani hisoblang va **"k"** o'zgaruvchisiga bering:  
-  \( k = 2 \cdot (ab - cd) \).  
+  <img src="https://latex.codecogs.com/gif.latex?\(k=2(ab-cd))" />;\
 - **"k"** qiymatini chop eting.
 
 **Kiritish:** *a, b, c, d*.  
