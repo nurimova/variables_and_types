@@ -1,7 +1,7 @@
-# Assign 7 (int value) to 'a' variable;
+"a" o'zgaruvchisiga 7 (butun son) qiymatini bering.
 
-# Assign 3 (int value) to 'b' variable;
+"b" o'zgaruvchisiga 3 (butun son) qiymatini bering.
 
-# Assign 5 (int value) to 'c' variable;
+"c" o'zgaruvchisiga 5 (butun son) qiymatini bering.
 
-# Print the sum of three variables 'a', 'b', 'c';
+Uch o'zgaruvchining "a", "b", "c" yig'indisini chop eting.
