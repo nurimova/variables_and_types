@@ -1,5 +1,5 @@
-# Assign 5 (int value) to 'num_one' variable;
+"num_one" o'zgaruvchisiga 5 (butun son) qiymatini bering.
 
-# Assign 4 (int value) to 'num_two' variable;
+"num_two" o'zgaruvchisiga 4 (butun son) qiymatini bering.
 
-# Print sum of 'num_one' and 'num_two;
+"num_one" va "num_two" yig'indisini chop eting.
