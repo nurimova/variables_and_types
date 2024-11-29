@@ -1,11 +1,11 @@
-# Assign 8 (int value) to 'a' variable;
+# "a" o'zgaruvchisiga 8 (butun son) qiymatini bering.
 
-# Assign 3 (int value) to 'b' variable;
+# "b" o'zgaruvchisiga 3 (butun son) qiymatini bering.
 
-# Assign 2 (int value) to 'c' variable;
+# "c" o'zgaruvchisiga 2 (butun son) qiymatini bering.
 
-# Assign 4 (int value) to 'd' variable;
+# "d" o'zgaruvchisiga 4 (butun son) qiymatini bering.
 
-# Find the result of that expression 'https://github.com/xakimovallamurod/variables_and_types/blob/main/begin09.py' to variable 'k';
+# Quyidagi ifodani hisoblang va "k" o'zgaruvchisiga bering: 'https://github.com/xakimovallamurod/variables_and_types/blob/main/begin09.py'
 
-# # Print the variable 'k'.
+# "k" qiymatini chop eting.
